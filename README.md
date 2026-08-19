@@ -49,7 +49,7 @@
   ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-  ### What I Build
+ ### What I've Worked On
 
 <strong>Commerce Admin</strong><br />
   여러 외부 시스템의 매출·주문·회원 데이터를 통합하는 어드민과 데이터 동기화 파이프라인
