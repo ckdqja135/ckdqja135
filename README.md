@@ -72,7 +72,7 @@ CMS, 백오피스 및 도메인별 어드민 등 다양한 운영·관리 시스
   <br />
 
   <strong>Production Infrastructure</strong><br />
-  AWS와 온프레미스 Ubuntu 환경의 배포, 모니터링 및 무중단 운영 체계
+  AWS와 온프레미스 Ubuntu 환경에서 Docker Compose와 Nginx를 활용한 Blue-Green 방식의 무중단 배포 체계를 구축하고, 로그 로테이션·모니터링·장애 대응을 포함한 서비스 운영 수행
 
  ### Blog
 
