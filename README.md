@@ -51,17 +51,23 @@
 
   ### What I Build
 
-  - **Commerce Admin**
-    여러 외부 시스템의 매출·주문·회원 데이터를 통합하는 어드민과 데이터 동기화 파이프라인
+<strong>Commerce Admin</strong><br />
+  여러 외부 시스템의 매출·주문·회원 데이터를 통합하는 어드민과 데이터 동기화 파이프라인
 
-  - **Web Crawling & AI Data Pipelines**
-    웹 크롤링과 외부 API를 활용한 멀티소스 데이터 수집, 가공, 검색, 분석 및 모델 추론을 연결하여 AI 서비스를 제품화하는 백엔드 및 데이터 파이프라인 설계·구축
+  <br />
 
-  - **Real-time Systems**
-    Redis, Socket.io, Kafka를 활용한 실시간 시세 및 로그 데이터 처리 시스템
+  <strong>Web Crawling & AI Data Pipelines</strong><br />
+  웹 크롤링과 외부 API를 활용한 멀티소스 데이터 수집, 가공, 검색, 분석 및 모델 추론을 연결하여 AI 서비스를 제품화하는 백엔드 및 데이터 파이프라인 설계·구축
 
-  - **Production Infrastructure**
-    AWS와 온프레미스 Ubuntu 환경의 배포, 모니터링 및 무중단 운영 체계
+  <br />
+
+  <strong>Real-time Systems</strong><br />
+  Redis, Socket.io, Kafka를 활용한 실시간 시세 및 로그 데이터 처리 시스템
+
+  <br />
+
+  <strong>Production Infrastructure</strong><br />
+  AWS와 온프레미스 Ubuntu 환경의 배포, 모니터링 및 무중단 운영 체계
 
  ### Blog
 
