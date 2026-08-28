@@ -24,6 +24,7 @@ CMS, 백오피스 및 도메인별 어드민 등 다양한 운영·관리 시스
 웹 크롤링과 외부 API를 활용한 데이터 수집·가공부터 검색, RAG, 모델 추론까지 연결하여 AI 기능을 실제 서비스로 제품화하고 있습니다.
 
   ### Tech Stack
+  #### Frontend
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
