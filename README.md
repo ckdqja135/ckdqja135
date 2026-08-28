@@ -2,8 +2,8 @@
 
   <p align="center">
     <strong>Product Engineer</strong><br/>
-    기술의 경계를 두지 않고 비즈니스 문제와 아이디어를 실제 사용되는 제품으로 구현합니다.<br/>
-    제품의 설계부터 안정적인 운영까지 전 과정을 주도합니다.  </p>
+    비즈니스 문제를 기술로 해결해 실제 사용되는 제품으로 만듭니다.<br/>
+    설계와 구현부터 배포, 안정적인 운영과 지속적인 개선까지 제품의 전 과정을 주도합니다. </p>
 
   <p align="center">
     <a href="https://bami-page.vercel.app">
