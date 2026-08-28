@@ -1,9 +1,9 @@
   <h1 align="center">Hi, I'm Changbeom Song 👋</h1>
 
   <p align="center">
-    <strong>Backend-focused Full-stack Developer</strong><br/>
-    서비스 설계부터 개발, 배포와 운영까지 책임지는 개발자입니다.
-  </p>
+    <strong>Product Engineer</strong><br/>
+    기술의 경계를 두지 않고 비즈니스 문제와 아이디어를 실제 사용되는 제품으로 구현합니다.<br/>
+    제품의 설계부터 안정적인 운영까지 전 과정을 주도합니다.  </p>
 
   <p align="center">
     <a href="https://bami-page.vercel.app">
