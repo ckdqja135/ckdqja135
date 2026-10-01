@@ -14,14 +14,13 @@
   ---
 
  ### About Me
+7년 이상 백엔드를 중심으로 제품의 구조를 설계하고, 프론트엔드와 인프라까지 연결해 실제 운영되는 서비스를 만들어온 프로덕트 엔지니어입니다. 요구사항을 기능 단위로 구현하는 데 그치지 않고 비즈니스와 운영 흐름을 이해해 필요한 구조를 설계하며 배포 이후의 안정적인 운영과 지속적인 개선까지 주도해왔습니다.
 
-7년 이상 백엔드를 중심으로 프론트엔드와 인프라까지 폭넓게 경험해온 풀스택 개발자입니다. 다양한 비즈니스 도메인의 서비스를 기획과 설계부터 개발·배포·운영까지 주도해왔습니다.
+이커머스 주문·매출·회원 데이터, 크립토 마켓 데이터 및 변동성 지표, 건물·설비 에너지 관제 데이터, 실시간 서비스 로그 등 다양한 형태의 데이터를 수집·동기화·정제·보정·집계하는 파이프라인을 구축해왔습니다. 사업 운영에 필요한 CMS, 백오피스 및 도메인별 어드민을 설계·구현하고, 영상·이미지 콘텐츠 관리와 AWS CloudFront 기반 HLS 스트리밍 환경도 개발했습니다.
 
-이커머스 주문·매출·회원 데이터, 크립토 마켓 데이터 및 변동성 지표 계산, 건물·설비 에너지 관제 데이터, 실시간 서비스 로그 등 다양한 형태의 데이터를 수집·동기화·정제·보정·집계·분석하는 데이터 파이프라인과 운영 시스템을 구축해왔습니다.
+서비스의 안정적인 운영을 위해 외부 API 문서와 실제 동작의 차이를 검증하고, 대량 배치의 동시성 제어와 중복 실행 방지, 실패 재처리 및 복구 경로를 설계해 운영 리스크를 줄여왔습니다. 대용량 운영 DB의 인덱스를 개선하고 AWS와 온프레미스 인프라를 운영하며 서비스의 성능과 안정성도 높였습니다.
 
-CMS, 백오피스 및 도메인별 어드민 등 다양한 운영·관리 시스템을 설계·구축했으며, 영상·이미지 콘텐츠 관리와 AWS CloudFront 기반 HLS 스트리밍 환경도 구현했습니다. 또한 대용량 운영 DB의 인덱스 설계, 배치 동시성 문제 해결, AWS 및 온프레미스 인프라 운영까지 서비스 안정성과 성능 개선을 담당했습니다.
-
-웹 크롤링과 외부 API를 활용한 데이터 수집·가공부터 검색, RAG, 모델 추론까지 연결하여 AI 기능을 실제 서비스로 제품화하고 있습니다.
+최근에는 웹 크롤링과 외부 API를 활용한 데이터 수집·가공부터 검색, RAG, 모델 추론까지 연결해 AI 기능을 실제 서비스로 제품화하고 있습니다.
 
   ### Tech Stack
   #### Frontend
@@ -42,7 +41,7 @@ CMS, 백오피스 및 도메인별 어드민 등 다양한 운영·관리 시스
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-    ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
   ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
@@ -53,28 +52,33 @@ CMS, 백오피스 및 도메인별 어드민 등 다양한 운영·관리 시스
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
   ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
  ### What I've Worked On
 
-<strong>Commerce Admin</strong><br />
-  여러 외부 시스템의 매출·주문·회원 데이터를 통합하는 어드민과 데이터 동기화 파이프라인
+ <strong>Commerce & Operational Systems</strong><br />
+ 여러 외부 시스템의 주문·매출·회원 데이터를 통합하고, 배치 동시성 제어와 중복 실행 방지, 실패 재처리 및 검증 과정을 자동화한 어드민과 데이터 동기화 파이프라인
 
-  <br />
+ <br />
 
-  <strong>Web Crawling & AI Data Pipelines</strong><br />
-  웹 크롤링과 외부 API를 활용한 멀티소스 데이터 수집, 가공, 검색, 분석 및 모델 추론을 연결하여 AI 서비스를 제품화하는 백엔드 및 데이터 파이프라인 설계·구축
+ <strong>Content Platforms & Streaming</strong><br />
+ CMS 기반의 영상·이미지 콘텐츠 관리 시스템과 AWS CloudFront를 활용한 HLS 스트리밍 환경
 
-  <br />
+ <br />
 
-  <strong>Real-time Systems</strong><br />
-  Redis, Socket.io, Kafka를 활용한 실시간 시세 및 로그 데이터 처리 시스템
+ <strong>Web Crawling & AI Data Pipelines</strong><br />
+ 웹 크롤링과 외부 API를 활용한 멀티소스 데이터 수집·가공·검색·분석 및 모델 추론을 연결한 AI 서비스와 백엔드 파이프라인
 
-  <br />
+ <br />
 
-  <strong>Production Infrastructure</strong><br />
-  AWS와 온프레미스 Ubuntu 환경에서 Docker Compose와 Nginx를 활용한 Blue-Green 방식의 무중단 배포 체계를 구축하고, 로그 로테이션·모니터링·장애 대응을 포함한 서비스 운영 수행
+ <strong>Real-time Systems</strong><br />
+ Redis, Socket.io, Kafka를 활용한 실시간 시세 및 로그 데이터 처리 시스템
+
+ <br />
+
+ <strong>Production Infrastructure</strong><br />
+ AWS와 온프레미스 Ubuntu 환경에서 Docker Compose와 Nginx를 활용한 Blue-Green 무중단 배포 체계를 구축하고, 로그 로테이션·모니터링·장애 대응까지 포함한 서비스 운영
 
  ### Blog
 
